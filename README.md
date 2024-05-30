@@ -5,10 +5,10 @@
 
 Welcome to the Coffee Shop Sales Data Analysis project! This analysis aims to provide actionable insights into the sales patterns and trends of a coffee shop, helping to optimize operations and enhance profitability. We addressed several key questions to understand various aspects of sales performance.
 
-| First Header  | Second Header |
+| Column        | Description   |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| transaction_id  | Unique sequential ID representing an individual transaction  |
+| transaction_date  | Date of the transaction (MM/DD/YY)  |
 
 **Questions:** 
 1) How do sales vary by day of the week and hour of the day?
