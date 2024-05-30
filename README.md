@@ -5,19 +5,22 @@
 
 Welcome to the Coffee Shop Sales Data Analysis project! This analysis aims to provide actionable insights into the sales patterns and trends of a coffee shop, helping to optimize operations and enhance profitability. We addressed several key questions to understand various aspects of sales performance.
 
+**About Data:**
+This project's data was obtained from the Maven Analytics and a coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details. The data contains 11 columns and 149,116 rows:
+
 | Column        | Description   |
 | ------------- | ------------- |
 | transaction_id  | Unique sequential ID representing an individual transaction  |
 | transaction_date  | Date of the transaction (MM/DD/YY)  |
-| product_id  | Unique ID of the product sold |
-| store_id  | Unique ID of the coffee shop where the transaction took place  |
 | transaction_time | Timestamp of the transaction (HH:MM:SS)  |
-|unit_price | Retail price of the product sold  |
-| store_location | Location of the coffee shop where the transaction took place  |
+| transaction_qty | Quantity of items sold |
+| product_id  | Unique ID of the product sold |
 | product_type | Description of the product type  |
 | product_detail | Description of the product detail  |
 | product_category  | Description of the product category  |
-
+| store_id  | Unique ID of the coffee shop where the transaction took place  |
+| store_location | Location of the coffee shop where the transaction took place  |
+|unit_price | Retail price of the product sold  |
 
 **Questions:** 
 1) How do sales vary by day of the week and hour of the day?
