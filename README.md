@@ -6,7 +6,8 @@
 Welcome to the Coffee Shop Sales Data Analysis project! This analysis aims to provide actionable insights into the sales patterns and trends of a coffee shop, helping to optimize operations and enhance profitability. We addressed several key questions to understand various aspects of sales performance.
 
 **About Data:**
-This project's data was obtained from the Maven Analytics and a coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details. The data contains 11 columns and 149,116 rows:
+
+This project's data was obtained from the Maven Analytics and a coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details. The data contains 11 columns and 149,116 rows.
 
 | Column        | Description   |
 | ------------- | ------------- |
