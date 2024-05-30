@@ -9,6 +9,15 @@ Welcome to the Coffee Shop Sales Data Analysis project! This analysis aims to pr
 | ------------- | ------------- |
 | transaction_id  | Unique sequential ID representing an individual transaction  |
 | transaction_date  | Date of the transaction (MM/DD/YY)  |
+| product_id  | Unique ID of the product sold |
+| store_id  | Unique ID of the coffee shop where the transaction took place  |
+| transaction_time | Timestamp of the transaction (HH:MM:SS)  |
+|unit_price | Retail price of the product sold  |
+| store_location | Location of the coffee shop where the transaction took place  |
+| product_type | Description of the product type  |
+| product_detail | Description of the product detail  |
+| product_category  | Description of the product category  |
+
 
 **Questions:** 
 1) How do sales vary by day of the week and hour of the day?
