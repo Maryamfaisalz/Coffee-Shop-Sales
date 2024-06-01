@@ -44,6 +44,17 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 4) **Product Insights:** Understand which products drive the most sales and revenue to inform inventory and promotional strategies. 
 5) **Customer Behavior:** Analyze average order values to better understand customer spending habits.
 
+**Approach:**
+
+
+**Tools and Techniques Used**
+
+
+**Excel:** For creating pivot tables, performing data cleaning, and generating visualizations.
+**Power Pivot:** To create calculated measures and enhance data analysis capabilities.
+**Charts:** Column and pie charts for visualizing data and presenting insights in an easy-to-understand format.
+**ETL Process:** Extracted, transformed, and loaded data to ensure it was in a suitable format for analysis.
+
 **Recommendations:**
 
 ![Coffee Shop Sales](https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project/assets/79410940/18c524a8-f1d5-4659-878a-bee9dad44b01)
