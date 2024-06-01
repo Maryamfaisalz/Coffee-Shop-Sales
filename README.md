@@ -46,8 +46,8 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 
 **Recommendations:**
 
-[[https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project/blob/7a30bb9d7ff6d6d4223355ac4a594fe0e0d63f1d/Coffee%20Shop%20Sales.PNG
-](https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project/blob/7a30bb9d7ff6d6d4223355ac4a594fe0e0d63f1d/Coffee%20Shop%20Sales.PNG)](https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project/blob/7a30bb9d7ff6d6d4223355ac4a594fe0e0d63f1d/Coffee%20Shop%20Sales.PNG)
+![Coffee Shop Sales](https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project/assets/79410940/18c524a8-f1d5-4659-878a-bee9dad44b01)
+
 
 **1) How do sales vary by day of the week and hour of the day?**
 
