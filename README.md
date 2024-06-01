@@ -51,11 +51,12 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 
 
 
-**Day of the Week: ** 
+**Day of the Week:**
 
 
 Sales orders are generally higher on weekdays with slight variations. Orders peak on Fridays (21,654 orders) and are the lowest on Sundays (21,096 orders).
-**Hour of the Day: **
+
+**Hour of the Day:**
 
 
 Sales quantity peaks between 9 AM to 10 AM, reaching around 28,000 orders, and then gradually decreases throughout the day with the lowest activity observed around 7 PM.
