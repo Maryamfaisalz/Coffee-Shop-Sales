@@ -46,7 +46,6 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 
 **Recommendations:**
 
-Coffee Shop Sales.PNG
 
 
 **1) How do sales vary by day of the week and hour of the day?**
@@ -74,12 +73,16 @@ Yes, the peak time for sales activity is between 9 AM and 10 AM, as indicated by
 
 
 The total sales revenue for the is $698,812.33.
-January: $81,677.74
-February: $76,145.19
-March: $98,834.68
-April: $118,941.08
-May: $156,727.76
-June: $166,485.88
+
+| Month        | Total Sales   |
+| ------------- | ------------- |
+| January  | $81,677.74  |
+| February  | $76,145.19  |
+| March | $98,834.68  |
+| April |  $118,941.08 |
+| May |  $156,727.76 |
+| June |  $166,485.88 |
+
 Months May and June had the highest sales revenue. 
 
 
