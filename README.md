@@ -10,7 +10,7 @@ Welcome to the Coffee Shop Sales Data Analysis project! This analysis aims to pr
 
 The coffee shop is seeking to enhance its understanding of sales patterns and trends to make informed decisions that will drive growth and improve customer satisfaction. Despite having a wealth of sales data, the shop lacks clear insights into several critical areas that impact its operations and profitability.
 
-**About Data:**
+**About the Dataset:**
 
 This project's data was obtained from the Maven Analytics and a coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details. The data contains 11 columns and 149,116 rows.
 
@@ -43,3 +43,6 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 3) Location Performance: Compare sales across different store locations to identify high and low-performing branches. 
 4) Product Insights: Understand which products drive the most sales and revenue to inform inventory and promotional strategies. 
 5) Customer Behavior: Analyze average order values to better understand customer spending habits.
+
+
+
