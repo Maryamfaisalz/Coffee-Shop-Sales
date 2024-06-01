@@ -50,10 +50,13 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 **Tools and Techniques Used**
 
 
--**Excel:** For creating pivot tables, performing data cleaning, and generating visualizations.
--**Power Pivot:** To create calculated measures and enhance data analysis capabilities.
--**Charts:** Column and pie charts for visualizing data and presenting insights in an easy-to-understand format.
--**ETL Process:** Extracted, transformed, and loaded data to ensure it was in a suitable format for analysis.
+**Excel:** For creating pivot tables, performing data cleaning, and generating visualizations.
+
+**Power Pivot:** To create calculated measures and enhance data analysis capabilities.
+
+**Charts:** Column and pie charts for visualizing data and presenting insights in an easy-to-understand format.
+
+**ETL Process:** Extracted, transformed, and loaded data to ensure it was in a suitable format for analysis.
 
 **Recommendations:**
 
