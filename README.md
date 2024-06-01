@@ -45,7 +45,9 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 5) Customer Behavior: Analyze average order values to better understand customer spending habits.
 
 **Recommendations:**
+
 Coffee Shop Sales.PNG
+
 
 **1) How do sales vary by day of the week and hour of the day?**
 
