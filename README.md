@@ -38,11 +38,11 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 7) How do sales vary by product category and type?
 
 **Objectives:**
-1) Identify Peak Sales Periods: Determine the busiest times of the day and week to optimize staffing and stock levels. 
-2) Monthly Revenue Analysis: Analyze monthly sales to identify trends and seasonality, aiding in financial planning and forecasting.
-3) Location Performance: Compare sales across different store locations to identify high and low-performing branches. 
-4) Product Insights: Understand which products drive the most sales and revenue to inform inventory and promotional strategies. 
-5) Customer Behavior: Analyze average order values to better understand customer spending habits.
+1) **Identify Peak Sales Periods:** Determine the busiest times of the day and week to optimize staffing and stock levels. 
+2) **Monthly Revenue Analysis:** Analyze monthly sales to identify trends and seasonality, aiding in financial planning and forecasting.
+3) **Location Performance:** Compare sales across different store locations to identify high and low-performing branches. 
+4) **Product Insights:** Understand which products drive the most sales and revenue to inform inventory and promotional strategies. 
+5) **Customer Behavior:** Analyze average order values to better understand customer spending habits.
 
 **Recommendations:**
 
