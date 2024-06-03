@@ -58,7 +58,7 @@ This project's data was obtained from the Maven Analytics and a coffee shop oper
 
 **ETL Process:** Extracted, transformed, and loaded data to ensure it was in a suitable format for analysis.
 
-**Recommendations:**
+**Insights from the Dashboard:**
 
 ![Coffee Shop Sales](https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project/assets/79410940/18c524a8-f1d5-4659-878a-bee9dad44b01)
 
